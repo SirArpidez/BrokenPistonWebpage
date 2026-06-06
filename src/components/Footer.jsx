@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Broken Piston. Todos los derechos reservados. <span className="version-pill">v0.1.0</span></p>
+        <p>&copy; {new Date().getFullYear()} Broken Piston. Todos los derechos reservados. <span className="version-pill">v0.1.1</span></p>
       </div>
     </footer>
   );

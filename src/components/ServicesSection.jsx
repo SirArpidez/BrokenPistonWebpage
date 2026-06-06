@@ -4,7 +4,7 @@ import './ServicesSection.css';
 const services = [
   {
     title: "Mantenimiento General",
-    desc: "Cambio de aceite, filtros, bujías y revisión de puntos de seguridad. Todo para que tu moto ruede como nueva.",
+    desc: "Cambio de aceite, filtros, bujías, revisión de puntos de seguridad, mantenimiento a barras de suspensión y frenos. Limpieza por tina ultrasónica. Todo para que tu moto ruede como nueva.",
     icon: "🔧"
   },
   {
